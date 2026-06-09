@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="da">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Amigo's Pizza & Grill | PDF menukort</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="print.css">
+  </head>
+  <body class="print-layout">
+    <header class="print-header">
+      <div>
+        <p class="print-year">2025</p>
+        <h1><span>Amigo's</span> Pizza & Grill</h1>
+        <p>Pizza & durum · Sandwich & pasta · Specialiteter</p>
+      </div>
+      <aside>
+        <strong>Tlf. 98 94 11 10</strong>
+        <span>SMS 42 34 09 15</span>
+        <span>Man-fre 16-21 · Lør-søn 12-21</span>
+        <span>Tannisbugtvej 68, 9881 Tversted</span>
+      </aside>
+    </header>
+
+    <p class="print-takeaway">Alle retter kan tages med ud af huset · Deep pan pizza +25,-</p>
+
+    <nav id="category-nav" class="category-nav" aria-label="Kategorier"></nav>
+    <label class="search print-search">
+      <span>Søg i menuen</span>
+      <input id="menu-search" type="search" autocomplete="off">
+    </label>
+    <main id="menu-root" class="menu-root"></main>
+
+    <script src="script.js"></script>
+  </body>
+</html>

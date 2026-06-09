@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="da">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#211a18">
+    <title>Amigo's Pizza & Grill | Menukort</title>
+    <meta
+      name="description"
+      content="Digitalt menukort for Amigo's Pizza & Grill i Tversted. Pizza, pasta, sandwich, grill, burger, salater og drikkevarer."
+    >
+    <link rel="preload" as="image" href="assets/hero-pizza.webp" type="image/webp">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="hero">
+      <div class="hero__image" aria-hidden="true"></div>
+      <div class="year-badge">2025</div>
+      <div class="hero__content">
+        <p class="eyebrow">Tannisbugtvej 68, 9881 Tversted</p>
+        <h1><span>Amigo's</span> Pizza & Grill</h1>
+        <p class="hero__text">Pizza & durum, sandwich & pasta, grillretter og specialiteter.</p>
+        <div class="takeaway-note">Alle retter kan tages med ud af huset</div>
+        <div class="hero__actions" aria-label="Kontaktmuligheder">
+          <a class="button button--primary" href="tel:+4598941110">Ring 98 94 11 10</a>
+          <a class="button button--ghost" href="sms:+4542340915">SMS 42 34 09 15</a>
+          <a class="button button--ghost" href="amigos-pizza-menukort.pdf">Åbn PDF</a>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="info-strip" aria-label="Restaurantinformation">
+        <article>
+          <span>Telefon</span>
+          <strong><a href="tel:+4598941110">98 94 11 10</a></strong>
+        </article>
+        <article>
+          <span>SMS-bestilling</span>
+          <strong><a href="sms:+4542340915">42 34 09 15</a></strong>
+        </article>
+        <article>
+          <span>Åbningstider</span>
+          <strong>Man-fre 16-21 · Lør-søn 12-21</strong>
+        </article>
+        <article>
+          <span>Adresse</span>
+          <strong>
+            <a href="https://www.google.com/maps/search/?api=1&query=Tannisbugtvej%2068%2C%209881%20Tversted">Tannisbugtvej 68</a>
+          </strong>
+        </article>
+      </section>
+
+      <section class="toolbar" aria-label="Find retter">
+        <label class="search">
+          <span>Søg i menuen</span>
+          <input id="menu-search" type="search" placeholder="Søg efter pizza, kebab, pasta..." autocomplete="off">
+        </label>
+        <div class="notice-list" aria-label="Noter">
+          <span>Deep pan pizza +25,-</span>
+          <span>Alm. ekstra tilbehør 15,-</span>
+          <span>Fam. ekstra tilbehør 30,-</span>
+        </div>
+      </section>
+
+      <nav id="category-nav" class="category-nav" aria-label="Kategorier"></nav>
+
+      <section id="menu-root" class="menu-root" aria-live="polite"></section>
+    </main>
+
+    <footer class="footer">
+      <div>
+        <span>Amigo's Pizza & Grill</span>
+        <strong>Pizza & durum · Sandwich & pasta · Specialiteter</strong>
+      </div>
+      <div>
+        <span>Bestilling</span>
+        <a href="tel:+4598941110">98 94 11 10</a>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -8,7 +8,7 @@ Statisk, mobilvenlig HTML/CSS/JS-side klar til GitHub Pages.
 - `styles.css` - Amigo-inspireret rød/orange/blå styling
 - `script.js` - menu-data, kategorier og søgning
 - `print.html` og `print.css` - printvenligt PDF-layout
-- `amigos-pizza-menukort.pdf` - PDF-version til download og print
+- `amigos-pizza-menukort-v2.pdf` - pæn PDF-version til download og print
 - `assets/hero-pizza.webp` - komprimeret hero-billede til forsiden
 - `assets/hero-pizza.png` - original genereret hero-billede som fallback
 

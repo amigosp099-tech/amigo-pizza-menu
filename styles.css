@@ -51,32 +51,16 @@ a {
   inset: 0;
   background-image:
     linear-gradient(90deg, rgba(33, 26, 24, 0.92), rgba(33, 26, 24, 0.5) 52%, rgba(33, 26, 24, 0.22)),
-    url("assets/hero-pizza.png?v=1");
+    url("assets/hero-pizza.png?v=2");
   background-image:
     linear-gradient(90deg, rgba(33, 26, 24, 0.92), rgba(33, 26, 24, 0.5) 52%, rgba(33, 26, 24, 0.22)),
     image-set(
-      url("assets/hero-pizza.webp?v=1") type("image/webp"),
-      url("assets/hero-pizza.png?v=1") type("image/png")
+      url("assets/hero-pizza.webp?v=2") type("image/webp"),
+      url("assets/hero-pizza.png?v=2") type("image/png")
     );
   background-size: cover;
   background-position: center;
   transform: scale(1.02);
-}
-
-.year-badge {
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 118px;
-  height: 86px;
-  display: grid;
-  place-items: start end;
-  padding: 12px 12px 0 0;
-  background: linear-gradient(135deg, transparent 0 49%, var(--blue) 50%);
-  color: #fff;
-  font-size: 1.35rem;
-  font-weight: 900;
-  transform-origin: top right;
 }
 
 .hero__content {

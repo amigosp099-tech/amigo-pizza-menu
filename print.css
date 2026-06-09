@@ -43,10 +43,6 @@
   text-transform: uppercase;
 }
 
-.print-layout .print-year {
-  color: var(--blue);
-}
-
 .print-layout .print-header aside {
   display: grid;
   gap: 4px;

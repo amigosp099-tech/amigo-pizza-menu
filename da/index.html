@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="da">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#211a18">
+    <title>Amigo's Pizza & Grill | Dansk menu</title>
+    <meta name="description" content="Dansk menukort for Amigo's Pizza & Grill i Tversted.">
+    <link rel="stylesheet" href="../menu.css">
+  </head>
+  <body data-language="da" data-menu-data="../data/da.json">
+    <header class="hero">
+      <div class="hero__image" aria-hidden="true"></div>
+      <div class="hero__content">
+        <div class="top-links">
+          <a href="../">Vælg sprog</a>
+          <a href="../en/" lang="en">English</a>
+        </div>
+        <p class="eyebrow">Tannisbugtvej 68, 9881 Tversted</p>
+        <h1><span>Amigo's</span> Pizza &amp; Grill</h1>
+        <p class="hero__text">Pizza &amp; durum, sandwich &amp; pasta, grillretter og specialiteter.</p>
+        <div class="hero__actions">
+          <a class="button button--primary" href="tel:+4598941110">Ring 98 94 11 10</a>
+          <a class="button" href="sms:+4542340915">SMS 42 34 09 15</a>
+          <a class="button" href="../menu-da.pdf">Hent dansk PDF</a>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="info-strip" aria-label="Restaurantinformation">
+        <article><span>Telefon</span><strong><a href="tel:+4598941110">98 94 11 10</a></strong></article>
+        <article><span>SMS-bestilling</span><strong><a href="sms:+4542340915">42 34 09 15</a></strong></article>
+        <article><span>Åbningstider</span><strong>Man-fre 16-21 · Lør-søn 12-21</strong></article>
+        <article><span>Adresse</span><strong>Tannisbugtvej 68</strong></article>
+      </section>
+
+      <section class="toolbar" aria-label="Find retter">
+        <label class="search">
+          <span>Søg i menuen</span>
+          <input id="menu-search" type="search" placeholder="Søg efter pizza, kebab, pasta..." autocomplete="off">
+        </label>
+        <div class="notice-list">
+          <span>Deep-pan pizza +25,-</span>
+          <span>Ekstra tilbehør: alm. 20,- / fam. 35,-</span>
+        </div>
+      </section>
+
+      <nav id="category-nav" class="category-nav" aria-label="Kategorier"></nav>
+      <section id="menu-root" class="menu-root" aria-live="polite"></section>
+    </main>
+
+    <footer class="footer">
+      <div><span>Amigo's Pizza &amp; Grill</span><strong>Alle retter kan tages med ud af huset</strong></div>
+      <div><span>Bestilling</span><strong>98 94 11 10</strong></div>
+    </footer>
+    <script src="../menu.js"></script>
+  </body>
+</html>

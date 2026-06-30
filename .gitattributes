@@ -1,6 +1,6 @@
 *.pdf binary
 *.png binary
+*.webp binary
 *.jpg binary
 *.jpeg binary
-*.webp binary
-*.svg binary
+*.svg text eol=lf

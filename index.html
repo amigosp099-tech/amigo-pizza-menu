@@ -3,30 +3,44 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#f2f0d8">
-    <title>Amigo's Pizza & Grill | Menu</title>
+    <meta name="theme-color" content="#211a18">
+    <title>Amigo's Pizza & Grill | Vælg sprog</title>
     <meta
       name="description"
-      content="Vælg dansk eller engelsk PDF-menu for Amigo's Pizza & Grill i Tversted."
+      content="Vælg dansk eller engelsk menukort for Amigo's Pizza & Grill i Tversted."
     >
+    <link rel="preload" as="image" href="assets/hero-pizza.webp" type="image/webp">
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
-    <main class="page">
-      <section class="card" aria-label="Vælg menu">
-        <p class="eyebrow">Tannisbugtvej 68, 9881 Tversted</p>
-        <h1>Amigo's<br><span>Pizza & Grill</span></h1>
-        <p class="tagline">Pizza & durum · Sandwich & pasta · Specialiteter</p>
-        <p class="note">Alle retter kan tages med ud af huset</p>
+    <main class="language-page">
+      <div class="language-page__image" aria-hidden="true"></div>
+      <section class="language-card" aria-labelledby="page-title">
+        <p class="address">Tannisbugtvej 68, 9881 Tversted</p>
+        <h1 id="page-title"><span>Amigo's</span> Pizza &amp; Grill</h1>
+        <p class="intro">Vælg sprog · Choose your language</p>
 
-        <div class="actions">
-          <a class="button button--primary" href="menu-da.pdf">Åbn dansk menukort</a>
-          <a class="button" href="menu-en.pdf">Open English menu</a>
+        <div class="language-options">
+          <article class="language-option">
+            <span class="language-code">DA</span>
+            <h2>Dansk</h2>
+            <p>Se det danske menukort med de nyeste retter og priser.</p>
+            <a class="primary-link" href="da/">Åbn dansk menu</a>
+            <a class="pdf-link" href="menu-da.pdf">Hent dansk PDF</a>
+          </article>
+
+          <article class="language-option" lang="en">
+            <span class="language-code">EN</span>
+            <h2>English</h2>
+            <p>View the English menu with the latest dishes and prices.</p>
+            <a class="primary-link" href="en/">Open English menu</a>
+            <a class="pdf-link" href="menu-en.pdf">Download English PDF</a>
+          </article>
         </div>
 
-        <div class="contact">
-          <a href="tel:+4598941110">Tlf. 98 94 11 10</a>
-          <span>Man-fre kl. 16-21 · Lør-søn kl. 12-21</span>
+        <div class="quick-contact">
+          <a href="tel:+4598941110">Tlf. / Tel. 98 94 11 10</a>
+          <span>Man-fre 16-21 · Lør-søn 12-21</span>
         </div>
       </section>
     </main>

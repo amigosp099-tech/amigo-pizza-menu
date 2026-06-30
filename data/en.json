@@ -1,0 +1,676 @@
+{
+  "sections": [
+    {
+      "category": "PIZZA",
+      "note": "reg. / fam.",
+      "items": [
+        {
+          "number": "1",
+          "name": "Margherita",
+          "description": "Tomato, cheese",
+          "price": "80,- / 155,-"
+        },
+        {
+          "number": "2",
+          "name": "Vesuvio",
+          "description": "Tomato, cheese, ham",
+          "price": "84,- / 163,-"
+        },
+        {
+          "number": "3",
+          "name": "Pepperoni",
+          "description": "Tomato, cheese, pepperoni",
+          "price": "84,- / 163,-"
+        },
+        {
+          "number": "4",
+          "name": "Capricciosa",
+          "description": "Tomato, cheese, ham, mushrooms",
+          "price": "86,- / 167,-"
+        },
+        {
+          "number": "5",
+          "name": "Hawaii",
+          "description": "Tomato, cheese, ham, pineapple",
+          "price": "86,- / 167,-"
+        },
+        {
+          "number": "6",
+          "name": "Vegetariana",
+          "description": "Tomato, cheese, bell pepper, pineapple, onion, mushrooms, olives",
+          "price": "94,- / 183,-"
+        },
+        {
+          "number": "7",
+          "name": "Ciao",
+          "description": "Tomato, cheese, ham, cocktail sausages, pepperoni, bacon, meat sauce",
+          "price": "100,- / 195,-"
+        },
+        {
+          "number": "8",
+          "name": "Chaplin",
+          "description": "Tomato, cheese, ham, cocktail sausages, meat sauce",
+          "price": "97,- / 189,-"
+        },
+        {
+          "number": "9",
+          "name": "Bearnaise",
+          "description": "Tomato, cheese, ham, pepperoni, béarnaise sauce",
+          "price": "97,- / 189,-"
+        },
+        {
+          "number": "10",
+          "name": "Rimmi",
+          "description": "Tomato, cheese, tuna, shrimp, crab, garlic",
+          "price": "97,- / 189,-"
+        },
+        {
+          "number": "11",
+          "name": "Alino",
+          "description": "Tomato, cheese, ham, pepperoni, meat sauce",
+          "price": "97,- / 189,-"
+        },
+        {
+          "number": "12",
+          "name": "Hopsan",
+          "description": "Tomato, cheese, pepperoni, meat sauce, onion, garlic",
+          "price": "99,- / 193,-"
+        },
+        {
+          "number": "13",
+          "name": "Gorgonzola",
+          "description": "Tomato, cheese, kebab, mushrooms, onion, gorgonzola",
+          "price": "99,- / 193,-"
+        },
+        {
+          "number": "14",
+          "name": "Volcane",
+          "description": "Tomato, cheese, tuna, ham, pepperoni, beef, onion, jalapeño, garlic",
+          "price": "100,- / 195,-"
+        },
+        {
+          "number": "15",
+          "name": "Pisa",
+          "description": "Tomato, cheese, ham, beef, cocktail sausages, garlic, mushrooms",
+          "price": "99,- / 195,-"
+        },
+        {
+          "number": "16",
+          "name": "Stærk",
+          "description": "Tomato, cheese, ham, bacon, kebab, chili",
+          "price": "97,- / 189,-"
+        },
+        {
+          "number": "17",
+          "name": "Amigo",
+          "description": "Tomato, cheese, ham, pepperoni, bacon, onion",
+          "price": "97,- / 189,-"
+        },
+        {
+          "number": "18",
+          "name": "Mexicano",
+          "description": "Tomato, cheese, pepperoni, kebab, chili, jalapeños, onion",
+          "price": "97,- / 193,-"
+        },
+        {
+          "number": "19",
+          "name": "Venus",
+          "description": "Tomato, cheese, ham, meat sauce, béarnaise sauce",
+          "price": "97,- / 189,-"
+        },
+        {
+          "number": "20",
+          "name": "Din egen pizza",
+          "description": "Tomato, cheese, plus 4 toppings",
+          "price": "125,- / 245,-"
+        },
+        {
+          "number": "21",
+          "name": "Amerikansk",
+          "description": "Tomato, cheese, ham, meat sauce, kebab, onion, mixed peppers, chili",
+          "price": "100,- / 195,-"
+        },
+        {
+          "number": "22",
+          "name": "Pommes frites pizza",
+          "description": "Tomato, cheese, French fries, kebab, chicken, béarnaise sauce",
+          "price": "100,- / 195,-"
+        },
+        {
+          "number": "23",
+          "name": "Natalie",
+          "description": "Tomato, cheese, chicken, mushrooms, onion, curry",
+          "price": "97,- / 189,-"
+        },
+        {
+          "number": "24",
+          "name": "Meat lover",
+          "description": "Tomato, cheese, ham, kebab, pepperoni, cocktail sausages, beef, bacon",
+          "price": "105,- / 205,--"
+        }
+      ]
+    },
+    {
+      "category": "GOURMET PIZZA",
+      "note": "reg. / fam.",
+      "items": [
+        {
+          "number": "25",
+          "name": "Mozarina",
+          "description": "Tomato, cheese, gorgonzola, Parma ham, mozzarella, arugula, pesto",
+          "price": "110,- / 215,-"
+        },
+        {
+          "number": "26",
+          "name": "Special",
+          "description": "Tomato, cheese, mozzarella, Parma ham, artichoke, arugula, tomato slices, pesto",
+          "price": "110,- / 215,-"
+        },
+        {
+          "number": "27",
+          "name": "Luksus seafood",
+          "description": "Tomato, cheese, tuna, shrimp, mushrooms, onion, garlic, chili",
+          "price": "120,- / 235,-"
+        },
+        {
+          "number": "28",
+          "name": "Parmesan",
+          "description": "Tomato, cheese, parmesan, mozzarella, Parma ham, tomato slices, arugula",
+          "price": "110,- / 235,-"
+        },
+        {
+          "number": "29",
+          "name": "Omars pizza",
+          "description": "Tomato, cheese, Serrano ham, mozzarella, garlic, arugula, tomato slices",
+          "price": "115,- / 230,-"
+        },
+        {
+          "number": "30",
+          "name": "Kartoffel pizza 1",
+          "description": "Tomato, cheese, potato slices, mozzarella, olive oil, pesto",
+          "price": "115,- / 230,-"
+        }
+      ]
+    },
+    {
+      "category": "WHITE GOURMET PIZZA",
+      "note": "reg. / fam.",
+      "items": [
+        {
+          "number": "31",
+          "name": "Kartoffel pizza 2",
+          "description": "Cheese, potato slices, bacon, rosemary, tomato slices, mozzarella, olive oil",
+          "price": "105,- / 210,-"
+        },
+        {
+          "number": "32",
+          "name": "Rosmarin",
+          "description": "Cheese, mascarpone, mozzarella, potato, rosemary, onion, olive oil",
+          "price": "115,- / 230,-"
+        },
+        {
+          "number": "33",
+          "name": "Serrano",
+          "description": "Cheese, mascarpone, Parma ham, mozzarella, rosemary",
+          "price": "115,- / 230,-"
+        },
+        {
+          "number": "34",
+          "name": "Laks",
+          "description": "Cheese, mascarpone, smoked salmon, potato, arugula, onion",
+          "price": "115,- / 230,-"
+        },
+        {
+          "number": "35",
+          "name": "Avocado",
+          "description": "Cheese, mascarpone, smoked salmon, avocado, arugula, garlic",
+          "price": "115,- / 230,-"
+        },
+        {
+          "number": "36",
+          "name": "Ostemix",
+          "description": "Cheese, mozzarella, cheddar, gorgonzola, parmesan",
+          "price": "115,- / 230,-"
+        }
+      ]
+    },
+    {
+      "category": "SALAD PIZZA",
+      "note": "reg. / fam.",
+      "items": [
+        {
+          "number": "37",
+          "name": "Kebab pizza",
+          "description": "Tomato, cheese, kebab, fresh salad, tomato, cucumber, dressing",
+          "price": "97,- / 189,-"
+        },
+        {
+          "number": "38",
+          "name": "Coralla",
+          "description": "Tomato, cheese, kebab, pepperoni, onion, fresh salad, tomato, cucumber, dressing",
+          "price": "100,- / 195,-"
+        },
+        {
+          "number": "39",
+          "name": "Serdina",
+          "description": "Tomato, cheese, ham, beef, pepperoni, fresh salad, tomato, cucumber, dressing",
+          "price": "100,- / 195,-"
+        },
+        {
+          "number": "40",
+          "name": "Joudi",
+          "description": "Tomato, cheese, chicken, kebab, pepperoni, fresh salad, tomato, cucumber, dressing",
+          "price": "100,- / 195,-"
+        }
+      ]
+    },
+    {
+      "category": "CALZONE",
+      "note": "",
+      "items": [
+        {
+          "number": "41",
+          "name": "Cao cao",
+          "description": "Tomato, cheese, ham",
+          "price": "85,-"
+        },
+        {
+          "number": "42",
+          "name": "Matador",
+          "description": "Tomato, cheese, ham, shrimp, mushrooms",
+          "price": "90,-"
+        },
+        {
+          "number": "43",
+          "name": "Napoli",
+          "description": "Tomato, cheese, chicken, kebab, bell pepper, chili",
+          "price": "97,-"
+        },
+        {
+          "number": "44",
+          "name": "Pasta",
+          "description": "Tomato, cheese, spaghetti, meat sauce",
+          "price": "97,-"
+        }
+      ]
+    },
+    {
+      "category": "PASTA DISHES",
+      "note": "",
+      "items": [
+        {
+          "number": "45",
+          "name": "Seafood Spaghetti",
+          "description": "Shrimp, gorgonzola, chili, garlic, salad, cream sauce",
+          "price": "100,-"
+        },
+        {
+          "number": "46",
+          "name": "Spaghetti Carbonara",
+          "description": "Bacon, onion, egg, cream sauce, salad",
+          "price": "95,-"
+        },
+        {
+          "number": "47",
+          "name": "Spaghetti Bolognese",
+          "description": "Meat sauce, salad",
+          "price": "85,-"
+        },
+        {
+          "number": "48",
+          "name": "Spaghetti Napoli",
+          "description": "Kebab, chicken, chili, cream sauce, pesto, salad",
+          "price": "100,-"
+        },
+        {
+          "number": "49",
+          "name": "Chicken Spaghetti",
+          "description": "Chicken, olives, corn, cream sauce, parmesan, curry, salad",
+          "price": "95,-"
+        }
+      ]
+    },
+    {
+      "category": "SANDWICHES & WRAPS",
+      "note": "",
+      "items": [
+        {
+          "number": "50",
+          "name": "Chicken Sandwich",
+          "description": "Cheese, salad, dressing",
+          "price": "85,-"
+        },
+        {
+          "number": "51",
+          "name": "Kebab Sandwich",
+          "description": "Cheese, salad, dressing",
+          "price": "85,-"
+        },
+        {
+          "number": "52",
+          "name": "Kebab Wrap",
+          "description": "Salad, cucumber, tomato, dressing",
+          "price": "90,-"
+        },
+        {
+          "number": "53",
+          "name": "Chicken Wrap",
+          "description": "Salad, cucumber, tomato, dressing",
+          "price": "90,-"
+        }
+      ]
+    },
+    {
+      "category": "PITA",
+      "note": "",
+      "items": [
+        {
+          "number": "54",
+          "name": "Kebab Pita",
+          "description": "Homemade pita bread, salad, cucumber, tomato, dressing",
+          "price": "75,-"
+        },
+        {
+          "number": "55",
+          "name": "Chicken Pita",
+          "description": "Homemade pita bread, salad, cucumber, tomato, dressing",
+          "price": "75,-"
+        },
+        {
+          "number": "56",
+          "name": "Falafel Pita",
+          "description": "Homemade pita bread, salad, cucumber, tomato, dressing, tahini",
+          "price": "75,-"
+        }
+      ]
+    },
+    {
+      "category": "SPECIALTIES",
+      "note": "",
+      "items": [
+        {
+          "number": "57",
+          "name": "Stjerneskud Fish Platter",
+          "description": "2 fish fillets, shrimp, bread, caviar, asparagus, cucumber, dressing, lemon",
+          "price": "120,-"
+        },
+        {
+          "number": "58",
+          "name": "Fish Fillets",
+          "description": "2 fish fillets, French fries, lemon, ketchup, remoulade",
+          "price": "104,-"
+        },
+        {
+          "number": "59",
+          "name": "Ham Schnitzel",
+          "description": "Potato wedges, béarnaise sauce, salad, tomato, cucumber, dressing",
+          "price": "105,-"
+        },
+        {
+          "number": "60",
+          "name": "Beef Sandwich",
+          "description": "Tomato, cheese, cocktail sausages, oregano",
+          "price": "120,-"
+        },
+        {
+          "number": "61",
+          "name": "Country-Style Steak",
+          "description": "Potato wedges, peas, tomato slices, béarnaise sauce",
+          "price": "120,-"
+        }
+      ]
+    },
+    {
+      "category": "CHILDREN'S MENU",
+      "note": "",
+      "items": [
+        {
+          "number": "62",
+          "name": "Chicken Nuggets",
+          "description": "Served with French fries",
+          "price": "70,-"
+        },
+        {
+          "number": "63",
+          "name": "Fresh Fish Fillet",
+          "description": "Served with French fries",
+          "price": "70,-"
+        },
+        {
+          "number": "64",
+          "name": "Mickey Pizza",
+          "description": "Tomato, cheese, ham",
+          "price": "65,-"
+        },
+        {
+          "number": "65",
+          "name": "Rana Pizza",
+          "description": "Tomato, cheese, cocktail sausages, meat sauce",
+          "price": "70,-"
+        },
+        {
+          "number": "66",
+          "name": "Anders AND pizza",
+          "description": "Tomato, cheese, ham, pepperoni",
+          "price": "70,-"
+        }
+      ]
+    },
+    {
+      "category": "GRILL & SIDES",
+      "note": "",
+      "items": [
+        {
+          "number": "67",
+          "name": "½ Grilled Chicken",
+          "description": "French fries, salad, ketchup, remoulade, crème fraîche",
+          "price": "114,-"
+        },
+        {
+          "number": "68",
+          "name": "French Fries",
+          "description": "",
+          "price": "Small / Medium / Large 35,- / 45,- / 55,-"
+        },
+        {
+          "number": "69",
+          "name": "Kebab Plate",
+          "description": "Kebab, salad, tomato, cucumber, French fries",
+          "price": "94,-"
+        },
+        {
+          "number": "70",
+          "name": "Chicken Plate",
+          "description": "Chicken, salad, tomato, cucumber, French fries",
+          "price": "94,-"
+        },
+        {
+          "number": "71",
+          "name": "Sausage Mix Plate",
+          "description": "Sausages, French fries, salad, tomato, cucumber, ketchup",
+          "price": "94,-"
+        },
+        {
+          "number": "72",
+          "name": "Nachos 1",
+          "description": "Cheddar cheese, guacamole, salsa",
+          "price": "80,-"
+        },
+        {
+          "number": "73",
+          "name": "Nachos 2",
+          "description": "Cheddar cheese, chicken, guacamole, salsa",
+          "price": "85,-"
+        },
+        {
+          "number": "74",
+          "name": "Snack Basket",
+          "description": "2 mozzarella sticks, 2 chili cheese tops, 2 chicken nuggets, 2 battered shrimp, 2 onion rings, ketchup, remoulade",
+          "price": "85,-"
+        },
+        {
+          "number": "75",
+          "name": "Garlic Bread",
+          "description": "With cheese",
+          "price": "70,-"
+        }
+      ]
+    },
+    {
+      "category": "BURGER",
+      "note": "",
+      "items": [
+        {
+          "number": "76",
+          "name": "Chicken Burger",
+          "description": "",
+          "price": "70,-"
+        },
+        {
+          "number": "77",
+          "name": "Big Burger",
+          "description": "",
+          "price": "80,-"
+        },
+        {
+          "number": "78",
+          "name": "Bacon Burger",
+          "description": "",
+          "price": "85,-"
+        },
+        {
+          "number": "79",
+          "name": "Cheese Burger",
+          "description": "",
+          "price": "85,-"
+        },
+        {
+          "number": "80",
+          "name": "Bacon Cheese Burger",
+          "description": "",
+          "price": "90,-"
+        },
+        {
+          "number": "81",
+          "name": "Double Burger",
+          "description": "",
+          "price": "100,-"
+        }
+      ]
+    },
+    {
+      "category": "SALADS",
+      "note": "",
+      "items": [
+        {
+          "number": "82",
+          "name": "Tuna Salad",
+          "description": "",
+          "price": "80,-"
+        },
+        {
+          "number": "83",
+          "name": "Greek Salad",
+          "description": "",
+          "price": "75,-"
+        },
+        {
+          "number": "84",
+          "name": "Kebab Salad",
+          "description": "",
+          "price": "80,-"
+        },
+        {
+          "number": "85",
+          "name": "Chicken Salad",
+          "description": "",
+          "price": "80,-"
+        },
+        {
+          "number": "86",
+          "name": "Shrimp Salad",
+          "description": "",
+          "price": "103,-"
+        }
+      ]
+    },
+    {
+      "category": "DRINKS",
+      "note": "",
+      "items": [
+        {
+          "number": "",
+          "name": "Soft drink, glass 0.33 L",
+          "description": "",
+          "price": "45,-"
+        },
+        {
+          "number": "",
+          "name": "Soft drink, glass 0.50 L",
+          "description": "",
+          "price": "55,-"
+        },
+        {
+          "number": "",
+          "name": "Soft drink, can 0.33 L",
+          "description": "",
+          "price": "35,-"
+        },
+        {
+          "number": "",
+          "name": "Cocio",
+          "description": "",
+          "price": "35,-"
+        },
+        {
+          "number": "",
+          "name": "Coffee",
+          "description": "",
+          "price": "30,-"
+        },
+        {
+          "number": "",
+          "name": "Tea",
+          "description": "",
+          "price": "25,-"
+        },
+        {
+          "number": "",
+          "name": "Juice, small / large",
+          "description": "",
+          "price": "45,- / 55,-"
+        },
+        {
+          "number": "",
+          "name": "Pilsner, small / large",
+          "description": "",
+          "price": "50,- / 65,-"
+        },
+        {
+          "number": "",
+          "name": "Classic beer, small / large",
+          "description": "",
+          "price": "55,- / 70,-"
+        },
+        {
+          "number": "",
+          "name": "Wine, glass / bottle",
+          "description": "",
+          "price": "70,- / 215,-"
+        },
+        {
+          "number": "",
+          "name": "Sparkling Water",
+          "description": "",
+          "price": "35,-"
+        },
+        {
+          "number": "",
+          "name": "Still Water",
+          "description": "",
+          "price": "30,-"
+        }
+      ]
+    }
+  ]
+}

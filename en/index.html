@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#211a18">
+    <title>Amigo's Pizza & Grill | English menu</title>
+    <meta name="description" content="English menu for Amigo's Pizza & Grill in Tversted.">
+    <link rel="stylesheet" href="../menu.css">
+  </head>
+  <body data-language="en" data-menu-data="../data/en.json">
+    <header class="hero">
+      <div class="hero__image" aria-hidden="true"></div>
+      <div class="hero__content">
+        <div class="top-links">
+          <a href="../">Choose language</a>
+          <a href="../da/" lang="da">Dansk</a>
+        </div>
+        <p class="eyebrow">Tannisbugtvej 68, 9881 Tversted</p>
+        <h1><span>Amigo's</span> Pizza &amp; Grill</h1>
+        <p class="hero__text">Pizza &amp; durum wraps, sandwiches &amp; pasta, grilled dishes and specialties.</p>
+        <div class="hero__actions">
+          <a class="button button--primary" href="tel:+4598941110">Call 98 94 11 10</a>
+          <a class="button" href="sms:+4542340915">Text 42 34 09 15</a>
+          <a class="button" href="../menu-en.pdf">Download English PDF</a>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="info-strip" aria-label="Restaurant information">
+        <article><span>Phone</span><strong><a href="tel:+4598941110">98 94 11 10</a></strong></article>
+        <article><span>Text your order</span><strong><a href="sms:+4542340915">42 34 09 15</a></strong></article>
+        <article><span>Opening hours</span><strong>Mon-Fri 4-9 PM · Sat-Sun 12-9 PM</strong></article>
+        <article><span>Address</span><strong>Tannisbugtvej 68</strong></article>
+      </section>
+
+      <section class="toolbar" aria-label="Find dishes">
+        <label class="search">
+          <span>Search the menu</span>
+          <input id="menu-search" type="search" placeholder="Search for pizza, kebab, pasta..." autocomplete="off">
+        </label>
+        <div class="notice-list">
+          <span>Deep-pan pizza +25,-</span>
+          <span>Extra topping: reg. 20,- / fam. 35,-</span>
+        </div>
+      </section>
+
+      <nav id="category-nav" class="category-nav" aria-label="Categories"></nav>
+      <section id="menu-root" class="menu-root" aria-live="polite"></section>
+    </main>
+
+    <footer class="footer">
+      <div><span>Amigo's Pizza &amp; Grill</span><strong>All dishes are available for takeaway</strong></div>
+      <div><span>Order by phone</span><strong>98 94 11 10</strong></div>
+    </footer>
+    <script src="../menu.js"></script>
+  </body>
+</html>

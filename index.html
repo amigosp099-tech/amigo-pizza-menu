@@ -4,80 +4,45 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#211a18">
-    <title>Amigo's Pizza & Grill | Menukort</title>
+    <title>Amigo's Pizza & Grill | Vælg sprog</title>
     <meta
       name="description"
-      content="Digitalt menukort for Amigo's Pizza & Grill i Tversted. Pizza, pasta, sandwich, grill, burger, salater og drikkevarer."
+      content="Vælg dansk eller engelsk menukort for Amigo's Pizza & Grill i Tversted."
     >
-    <link rel="preload" as="image" href="assets/hero-pizza.webp?v=2" type="image/webp">
-    <link rel="stylesheet" href="styles.css?v=2">
+    <link rel="preload" as="image" href="assets/hero-pizza.webp" type="image/webp">
+    <link rel="stylesheet" href="styles.css">
   </head>
   <body>
-    <header class="hero">
-      <div class="hero__image" aria-hidden="true"></div>
-      <div class="hero__content">
-        <p class="eyebrow">Tannisbugtvej 68, 9881 Tversted</p>
-        <h1><span>Amigo's</span> Pizza & Grill</h1>
-        <p class="hero__text">Pizza & durum, sandwich & pasta, grillretter og specialiteter.</p>
-        <div class="takeaway-note">Alle retter kan tages med ud af huset</div>
-        <div class="hero__actions" aria-label="Kontaktmuligheder">
-          <a class="button button--primary" href="tel:+4598941110">Ring 98 94 11 10</a>
-          <a class="button button--ghost" href="sms:+4542340915">SMS 42 34 09 15</a>
-          <a class="button button--ghost" href="amigos-pizza-menukort-v2.pdf?v=2">Åbn PDF</a>
+    <main class="language-page">
+      <div class="language-page__image" aria-hidden="true"></div>
+      <section class="language-card" aria-labelledby="page-title">
+        <p class="address">Tannisbugtvej 68, 9881 Tversted</p>
+        <h1 id="page-title"><span>Amigo's</span> Pizza &amp; Grill</h1>
+        <p class="intro">Vælg sprog · Choose your language</p>
+
+        <div class="language-options">
+          <article class="language-option">
+            <span class="language-code">DA</span>
+            <h2>Dansk</h2>
+            <p>Se det danske menukort med de nyeste retter og priser.</p>
+            <a class="primary-link" href="da/">Åbn dansk menu</a>
+            <a class="pdf-link" href="menu-da.pdf">Hent dansk PDF</a>
+          </article>
+
+          <article class="language-option" lang="en">
+            <span class="language-code">EN</span>
+            <h2>English</h2>
+            <p>View the English menu with the latest dishes and prices.</p>
+            <a class="primary-link" href="en/">Open English menu</a>
+            <a class="pdf-link" href="menu-en.pdf">Download English PDF</a>
+          </article>
         </div>
-      </div>
-    </header>
 
-    <main>
-      <section class="info-strip" aria-label="Restaurantinformation">
-        <article>
-          <span>Telefon</span>
-          <strong><a href="tel:+4598941110">98 94 11 10</a></strong>
-        </article>
-        <article>
-          <span>SMS-bestilling</span>
-          <strong><a href="sms:+4542340915">42 34 09 15</a></strong>
-        </article>
-        <article>
-          <span>Åbningstider</span>
-          <strong>Man-fre 16-21 · Lør-søn 12-21</strong>
-        </article>
-        <article>
-          <span>Adresse</span>
-          <strong>
-            <a href="https://www.google.com/maps/search/?api=1&query=Tannisbugtvej%2068%2C%209881%20Tversted">Tannisbugtvej 68</a>
-          </strong>
-        </article>
-      </section>
-
-      <section class="toolbar" aria-label="Find retter">
-        <label class="search">
-          <span>Søg i menuen</span>
-          <input id="menu-search" type="search" placeholder="Søg efter pizza, kebab, pasta..." autocomplete="off">
-        </label>
-        <div class="notice-list" aria-label="Noter">
-          <span>Deep pan pizza +25,-</span>
-          <span>Alm. ekstra tilbehør 15,-</span>
-          <span>Fam. ekstra tilbehør 30,-</span>
+        <div class="quick-contact">
+          <a href="tel:+4598941110">Tlf. / Tel. 98 94 11 10</a>
+          <span>Man-fre 16-21 · Lør-søn 12-21</span>
         </div>
       </section>
-
-      <nav id="category-nav" class="category-nav" aria-label="Kategorier"></nav>
-
-      <section id="menu-root" class="menu-root" aria-live="polite"></section>
     </main>
-
-    <footer class="footer">
-      <div>
-        <span>Amigo's Pizza & Grill</span>
-        <strong>Pizza & durum · Sandwich & pasta · Specialiteter</strong>
-      </div>
-      <div>
-        <span>Bestilling</span>
-        <a href="tel:+4598941110">98 94 11 10</a>
-      </div>
-    </footer>
-
-    <script src="script.js?v=2"></script>
   </body>
 </html>

@@ -61,7 +61,7 @@
         {
           "number": "10",
           "name": "Rimmi",
-          "description": "Tomato, cheese, tuna, shrimp, crab, garlic",
+          "description": "Tomato, cheese, tuna, shrimp, crab, garlic oil",
           "price": "97,- / 189,-"
         },
         {
@@ -73,7 +73,7 @@
         {
           "number": "12",
           "name": "Hopsan",
-          "description": "Tomato, cheese, pepperoni, meat sauce, onion, garlic",
+          "description": "Tomato, cheese, pepperoni, meat sauce, onion, garlic oil",
           "price": "99,- / 193,-"
         },
         {
@@ -85,13 +85,13 @@
         {
           "number": "14",
           "name": "Volcane",
-          "description": "Tomato, cheese, tuna, ham, pepperoni, beef, onion, jalapeño, garlic",
+          "description": "Tomato, cheese, ham, pepperoni, ground beef, onion, jalapeño, garlic oil",
           "price": "100,- / 195,-"
         },
         {
           "number": "15",
           "name": "Pisa",
-          "description": "Tomato, cheese, ham, beef, cocktail sausages, garlic, mushrooms",
+          "description": "Tomato, cheese, ham, ground beef, cocktail sausages, garlic oil, mushrooms",
           "price": "99,- / 195,-"
         },
         {
@@ -121,13 +121,13 @@
         {
           "number": "20",
           "name": "Din egen pizza",
-          "description": "Tomato, cheese, plus 4 toppings",
+          "description": "Tomato, cheese, plus 5 toppings",
           "price": "125,- / 245,-"
         },
         {
           "number": "21",
           "name": "Amerikansk",
-          "description": "Tomato, cheese, ham, meat sauce, kebab, onion, mixed peppers, chili",
+          "description": "Tomato, cheese, ham, meat sauce, kebab, onion, bell pepper, chili",
           "price": "100,- / 195,-"
         },
         {
@@ -145,7 +145,7 @@
         {
           "number": "24",
           "name": "Meat lover",
-          "description": "Tomato, cheese, ham, kebab, pepperoni, cocktail sausages, beef, bacon",
+          "description": "Tomato, cheese, ham, kebab, pepperoni, cocktail sausages, ground beef, bacon",
           "price": "105,- / 205,--"
         }
       ]
@@ -169,7 +169,7 @@
         {
           "number": "27",
           "name": "Luksus seafood",
-          "description": "Tomato, cheese, tuna, shrimp, mushrooms, onion, garlic, chili",
+          "description": "Tomato, cheese, tuna, shrimp, mushrooms, onion, garlic oil, chili",
           "price": "120,- / 235,-"
         },
         {
@@ -181,7 +181,7 @@
         {
           "number": "29",
           "name": "Omars pizza",
-          "description": "Tomato, cheese, Serrano ham, mozzarella, garlic, arugula, tomato slices",
+          "description": "Tomato, cheese, Parma ham, mozzarella, garlic oil, arugula, tomato slices",
           "price": "115,- / 230,-"
         },
         {
@@ -205,7 +205,7 @@
         {
           "number": "32",
           "name": "Rosmarin",
-          "description": "Cheese, mascarpone, mozzarella, potato, rosemary, onion, olive oil",
+          "description": "Cheese, mascarpone, mozzarella, potato slices, rosemary, onion, olive oil",
           "price": "115,- / 230,-"
         },
         {
@@ -217,13 +217,13 @@
         {
           "number": "34",
           "name": "Laks",
-          "description": "Cheese, mascarpone, smoked salmon, potato, arugula, onion",
+          "description": "Cheese, mascarpone, smoked salmon, potato slices, arugula, onion",
           "price": "115,- / 230,-"
         },
         {
           "number": "35",
           "name": "Avocado",
-          "description": "Cheese, mascarpone, smoked salmon, avocado, arugula, garlic",
+          "description": "Cheese, mascarpone, smoked salmon, avocado, arugula, garlic oil",
           "price": "115,- / 230,-"
         },
         {
@@ -253,7 +253,7 @@
         {
           "number": "39",
           "name": "Serdina",
-          "description": "Tomato, cheese, ham, beef, pepperoni, fresh salad, tomato, cucumber, dressing",
+          "description": "Tomato, cheese, ham, ground beef, pepperoni, fresh salad, tomato, cucumber, dressing",
           "price": "100,- / 195,-"
         },
         {
@@ -301,7 +301,7 @@
         {
           "number": "45",
           "name": "Seafood Spaghetti",
-          "description": "Shrimp, gorgonzola, chili, garlic, salad, cream sauce",
+          "description": "Shrimp, gorgonzola, chili, garlic oil, cream sauce, salad",
           "price": "100,-"
         },
         {
@@ -409,7 +409,7 @@
         {
           "number": "60",
           "name": "Beef Sandwich",
-          "description": "Tomato, cheese, cocktail sausages, oregano",
+          "description": "",
           "price": "120,-"
         },
         {

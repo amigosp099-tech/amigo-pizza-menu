@@ -85,7 +85,7 @@
         {
           "number": "14",
           "name": "Volcane",
-          "description": "tomat, ost, tun, skinke, pepperoni, oksekød, løg, jalapeño, hvidløg",
+          "description": "tomat, ost, skinke, pepperoni, oksekød, løg, jalapeño, hvidløg",
           "price": "100,- / 195,-"
         },
         {
@@ -121,13 +121,13 @@
         {
           "number": "20",
           "name": "Din egen pizza",
-          "description": "tomat, ost, + 4 x tilbehør",
+          "description": "tomat, ost, + 5 x selvvaglt tilbehør",
           "price": "125,- / 245,-"
         },
         {
           "number": "21",
           "name": "Amerikansk",
-          "description": "tomat, ost, skinke, kødsauce, kebab, løg, pebermix, chili",
+          "description": "tomat, ost, skinke, kødsauce, kebab, løg, paprika, chili",
           "price": "100,- / 195,-"
         },
         {
@@ -301,7 +301,7 @@
         {
           "number": "45",
           "name": "Spaghetti seafood",
-          "description": "Med rejer, gorgonzola, chili, hvidløg, salat, flødesauce",
+          "description": "Med rejer, gorgonzola, chili, hvidløg, flødesauce, salat",
           "price": "100,-"
         },
         {
@@ -409,7 +409,7 @@
         {
           "number": "60",
           "name": "Bøfsandwich",
-          "description": "tomat, ost, cocktailpølser, oregano",
+          "description": "",
           "price": "120,-"
         },
         {

@@ -146,7 +146,7 @@
           "number": "24",
           "name": "Meat lover",
           "description": "tomat, ost, skinke, kebab, pepperoni, cocktailpølser, oksekød, bacon",
-          "price": "105,- / 205,--"
+          "price": "105,- / 205,-"
         }
       ]
     },
@@ -432,7 +432,7 @@
         },
         {
           "number": "63",
-          "name": "Frisk fiskefilet",
+          "name": "Fisk",
           "description": "Med pommes frites",
           "price": "70,-"
         },

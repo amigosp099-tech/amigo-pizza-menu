@@ -11,9 +11,9 @@ The GitHub Pages site opens with a Danish/English language selector:
 
 Live site:
 
-<https://amigosp099-tech.github.io/amigo-pizza-menu/>
+<https://amigos-pizza-menu.netlify.app/>
 
-The existing QR code can still be used because it points to this root address.
+The QR code points to this Netlify address, so customers do not see the GitHub Pages URL.
 
 ## Updating the menus
 
@@ -41,3 +41,11 @@ python -m http.server 8765
 ```
 
 Then open <http://127.0.0.1:8765/>.
+
+## Updating the QR code
+
+The QR artwork can be regenerated with:
+
+```powershell
+python scripts/build-qr.py
+```
